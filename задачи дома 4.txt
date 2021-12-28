@@ -1,0 +1,94 @@
+﻿1/
+
+Создание нового репозитория на сайте github.com:
+Сверху справа нажимаю (+), New Repository
+Repository name: repo_github_25.12.21_1
+
+Public оставляю
+
+Create Repository
+
+
+На данный момент нет файлов в данном репозитории на github.com, как и в локальном репозитории, созданном в git bush с помощью комманды git init.
+
+
+dom.27.12.2021_1
+
+
+app.gitkraken.com
+
+закачиваю gitkraken ---
+use gitjraken with github
+
+
+
+2/
+
+Захожу на github.com
+
+создаю там реопзиторий, копирую ссылку.
+
+3. Создаю папку для репозитрия на локальном компе:
+
+C:\Users\Peter\Documents\Repo_from_Kraken\repo_gui2
+
+
+4. Создаю репозиторий в GitKraken:
+Fail --- Open Repo --- Init и прочие действия.
+
+
+
+5. Переношу в папку 
+C:\Users\Peter\Documents\Repo_from_Kraken\repo_gui2 любой файл.
+в GitKraken появляется 
+в master новый пункт.
+
+
+5.1. 
+stage all changes  справа
+
+(этап всех изменений)
+
+stage   - этап, ступень, стадия.
+
+5.2.
+commit message
+
+5.3.
+commit
+
+5.4.
+push - это отправка на сервер.
+
+
+6.
+
+
+ссылка на обучающее видео:
+
+https://www.youtube.com/watch?v=O0VLIbRWCvI
+
+
+https://www.youtube.com/watch?v=dShFBk1J8EQ
+
+
+
+7. Замечания для GitKrakena:
+пока не появился документ README.md комманда git init до конца не отработала.
+
+Если появляются сообщения с error слева внизу программы GitKraken, то после изучения содержимого сообщения , необходимо:
+сначала выбрать репозиторий,
+потом перейти в настройки: 
+File --- Init Repo ---  Init --- Github.com --- 
+Account --- PeterUnreable
+Name: P
+
+Create Repsitory and Clone
+
+После этого можно делать 5.1 - 5.4.
+
+
+
+
+
+
